@@ -1,0 +1,8 @@
+public static void main()
+{
+  System.debug('name');
+}
+
+
+in debug
+name.main();
